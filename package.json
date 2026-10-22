@@ -6,7 +6,6 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "socks-server": "^1.0.2",
     "http-proxy": "^1.18.1"
   }
 }
