@@ -1,0 +1,12 @@
+{
+  "name": "my-vpn-server",
+  "version": "1.0.0",
+  "description": "Secure Proxy Server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "http-proxy": "^1.18.1"
+  }
+}
